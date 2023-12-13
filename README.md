@@ -18,3 +18,8 @@ Open the Colab file available at examples/basics/basic in Google Colab.
 Execute the cells in the notebook to generate colour outputs.
 
 Download the generated 3D OBJ files from the Colab environment to your local machine.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+All credits at https://joss.theoj.org/papers/10.21105/joss.04901
