@@ -13,6 +13,8 @@ The project includes a Google Colab file (colab_example.ipynb) that demonstrates
 
 # To run the Colab notebook:
 
-Open the Colab file (blenderproc2.ipynb) in Google Colab.
+Open the Colab file available at examples/basics/basic in Google Colab.
+
 Execute the cells in the notebook to generate colour outputs.
+
 Download the generated 3D OBJ files from the Colab environment to your local machine.
