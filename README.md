@@ -22,4 +22,4 @@ Download the generated 3D OBJ files from the Colab environment to your local mac
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-All credits at https://joss.theoj.org/papers/10.21105/joss.04901
+All credits to https://joss.theoj.org/papers/10.21105/joss.04901
